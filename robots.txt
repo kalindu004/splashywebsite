@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://splashyonline.com/sitemap.xml
